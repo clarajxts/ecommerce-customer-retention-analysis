@@ -54,3 +54,5 @@ A página **Performance e Retenção** consolida os KPIs validados, filtro tempo
 - `assets/img/` --- Captura de tela do relatório finalizado.
 - `data/` --- Conjunto de dados brutos utilizados na análise.
 - `ecommerce_performance_retencao.pbix` --- Arquivo do Power BI com ETL, modelagem e visuais.
+
+#### **Fonte dos Dados:** [Dataset original](https://www.kaggle.com/datasets/datascikhan/e-commerce-sales-and-customer-analytics/)
